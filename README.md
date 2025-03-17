@@ -24,3 +24,6 @@
 
 # 运行时间
 预计运行时间为 43 分钟。
+
+# 在 Kaggle 上运行
+如果不想配置环境和下载数据，可以直接在 Kaggle 上运行： https://www.kaggle.com/code/dooooooooog/notebookd2f4ecffb6/
